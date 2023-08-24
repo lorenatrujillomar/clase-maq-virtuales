@@ -1,0 +1,18 @@
+Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no? 
+
+R/ Porque un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+
+Que tipo de maquina virtual soporta virtualBox?
+
+R/ Por medio de esta aplicacion es posible instalar sistemas operativos adicionales, conocidos como sistemas invitados, dentro de otro sistema operativo anfitrion, cada uno con su propio ambiente virtual.
+
+
+Que funcion cumple el hypervisor en la virtualizacion?
+
+R/ Un hipervisor permite que un ordenador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento
+
+
+Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? por que?
+
+R/No, porque cada maquina virtual se crea en su propio espacio aislado.
